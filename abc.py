@@ -13,4 +13,4 @@
 #     print("You are good")
 
 
-a = {4}
+a = {4. 5, 7}
